@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.animeextension.all.xmovix
+package eu.kanade.tachiyomi.animeextension.all.xmovix// Trigger first build
 
 import android.app.Application
 import androidx.preference.ListPreference
