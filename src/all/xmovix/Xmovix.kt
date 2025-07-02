@@ -1,3 +1,4 @@
+// trigger build
 package eu.kanade.tachiyomi.animeextension.all.xmovix
 
 import android.app.Application
